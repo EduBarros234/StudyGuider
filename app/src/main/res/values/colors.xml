@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    //cores neutras
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    //tons azulados
+    <color name="cobaltBlue">#0395D3</color>
+    <color name="skyBlue">#1DB8FB</color>
+    //tons amarelados
     <color name="Primary">#FFB05F</color>
 </resources>
